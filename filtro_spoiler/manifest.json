@@ -18,7 +18,7 @@
         "matches": ["http://*/*", "https://*/*"],
         "all_frames": true,
         "run_at": "document_idle",
-        "js": ["jquery-3.3.1.min.js","teste.js"]
+        "js": ["jquery-3.3.1.min.js","AntiSpoiler.js"]
     }
 ],
 
