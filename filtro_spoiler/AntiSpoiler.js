@@ -1,7 +1,6 @@
 $(function () {
     let i = 0;
     var herois;
-   let cafe = ['Café', 'café', 'CAFE'];
     $.ajax({
     
         url: 'https://gateway.marvel.com/v1/public/events/314/characters?&ts=1&apikey=48985e65e2babdeac044a1ad73d5b299&hash=b4e87ab657e8c6aedeed9c93780c917a',
